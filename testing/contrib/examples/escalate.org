@@ -1,0 +1,11 @@
+
+* Outline One
+** Foo
+   :PROPERTIES:
+   :CUSTOM_ID: id_of_foo
+   :END:
+   
+* Outline Two (--> [[elisp:(org-escalate-todo "TODO")][Escalate!]])
+
+** TODO Bar
+*** [[#id_of_foo][Foo Ref]]
