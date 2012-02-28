@@ -1,0 +1,17 @@
+#+Title:        org-escalate
+#+AUTHOR:       Michael Locher
+#+EMAIL:        cmbntr@gmail.com
+
+* org-escalate
+
+- [[https://github.com/cmbntr/org-escalate][Github]]
+
+** Versions
+   | Version | Released |
+   |   0.0.1 | WIP      |
+   
+* Legalese
+
+Copyright (C) 2012 Michael Locher
+
+License to be defined.
